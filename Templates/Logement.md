@@ -6,30 +6,6 @@ Loyer (CC):
 Surface:
 DPE:
 ---
-- [[#Travail <-> Maison|Travail <-> Maison]]
-- [[#Type de logement|Type de logement]]
-- [[#Informations sur le logement|Informations sur le logement]]
-	- [[#Informations sur le logement#Les bases|Les bases]]
-	- [[#Informations sur le logement#Agencement et ameublement|Agencement et ameublement]]
-	- [[#Informations sur le logement#Annexes|Annexes]]
-	- [[#Informations sur le logement#Internet et connectivité|Internet et connectivité]]
-- [[#Énergie|Énergie]]
-- [[#Chauffage|Chauffage]]
-	- [[#Chauffage#Type d’énergie :|Type d’énergie :]]
-	- [[#Chauffage#Type de chauffage :|Type de chauffage :]]
-- [[#Cuisine|Cuisine]]
-	- [[#Cuisine#Utilitaires|Utilitaires]]
-	- [[#Cuisine#Frigo :|Frigo :]]
-	- [[#Cuisine#Évier|Évier]]
-	- [[#Cuisine#Plaques|Plaques]]
-	- [[#Cuisine#Plan de travail|Plan de travail]]
-- [[#Salon|Salon]]
-- [[#Chambre|Chambre]]
-- [[#Salle de bain|Salle de bain]]
-	- [[#Salle de bain#Utilitaires|Utilitaires]]
-	- [[#Salle de bain#Pour se laver|Pour se laver]]
-	- [[#Salle de bain#Lavabo|Lavabo]]
-- [[#Autres et détails|Autres et détails]]
 # Informations pratiques
 ## Travail <-> Maison
 Distance par rapport au travail : `xx` km
