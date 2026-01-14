@@ -1,10 +1,10 @@
 ---
-Annonce:
-Date:
-Adresse:
-Loyer (CC):
-Surface:
-DPE:
+Annonce: https://example.fr
+Date: 01/01/2026
+Adresse: 59000 Lille
+Loyer (CC): xx
+Surface: xx
+DPE: A
 ---
 # Informations pratiques
 ## Travail <-> Maison
